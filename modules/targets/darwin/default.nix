@@ -4,10 +4,10 @@
   meta.maintainers = with lib.maintainers; [ midchildan ];
 
   imports = [
-    ./user-defaults
+    # ./user-defaults
     #    ./fonts.nix
-    ./keybindings.nix
-    ./linkapps.nix
-    ./search.nix
+    # ./keybindings.nix
+    # ./linkapps.nix
+    # ./search.nix
   ];
 }

@@ -5,7 +5,7 @@
 
   imports = [
     ./user-defaults
-    ./fonts.nix
+    #    ./fonts.nix
     ./keybindings.nix
     ./linkapps.nix
     ./search.nix
